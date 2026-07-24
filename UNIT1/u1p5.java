@@ -1,7 +1,7 @@
 //3 Write a java program to get personal information from user and display on screen.*/
 
 import java.util.Scanner;
-   public class userinput3
+   public class u1p5
     {
 	   public static void main(String args[])
 	   {
