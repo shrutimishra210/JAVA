@@ -1,7 +1,7 @@
 //6.2 wrte the program to get the number from the user and print 10 times using whileloop.
 
 import java.util.Scanner;
-public class whileloop
+public class u1p6_2
     {
 	    public static void main(String args[])
 		
