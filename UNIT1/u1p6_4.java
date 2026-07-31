@@ -1,7 +1,7 @@
 //6.4 wrte the program to get the name from the user and print 10 times using forloop.
 
 import java.util.Scanner;
-public class forname
+public class u1p6_4
     {
 	    public static void main(String args[])
 		
