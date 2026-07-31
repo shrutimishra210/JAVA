@@ -1,7 +1,7 @@
 //6.3 wrte the program to get the number from the user and print 10 times using dowhile loop.
 
 import java.util.Scanner;
-public class dowhileloop
+public class u1p6_3
     {
 	    public static void main(String args[])
 		
