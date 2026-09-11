@@ -1,5 +1,5 @@
 //Write a java program to demonstrate encapsulation.
-public class u2_p10{
+public class u2p10{
 	private String name;
 	public String getName()
 	{
@@ -10,7 +10,7 @@ public class u2_p10{
 		this.name = name;
 	}
 	public static void main(String[] args){
-		U2_P10 emp = new U2_P10();
+		U2P10 emp = new U2P10();
 		emp.setName("Diya");
 		System.out.println("Employee Name :" + emp.getName());
 	}
